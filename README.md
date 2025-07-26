@@ -146,6 +146,7 @@ Pub_sub
 	ros2 topic hz /data
 
 ดู size msg ที่ส่งใน msg
+
 	#phubet@phubet-Victus-by-HP-Gaming-Laptop-15-fa1xxx:~$ ros2 topic bw /data
 	#Subscribed to [/data]
 	#30 B/s from 2 messages
