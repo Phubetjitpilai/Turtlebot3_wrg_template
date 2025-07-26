@@ -42,9 +42,11 @@
 
 # COMMAND FOR NAVIGAE
 เปิด slam(เก็บ map)
+
 	ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
 	
 เปิด keyboard
+
 	ros2 run turtlebot3_teleop teleop_keyboard
 	
 save map
